@@ -143,3 +143,20 @@
 .social li a:hover {
 	transform: translateY(-10px);
 }
+
+@media (max-width: 798px) {
+	.showcase,
+	.showcase header {
+		padding: 40px;
+	}
+
+	.text h2 {
+		font-size: 2em;
+	}
+	.text h3 {
+		font-size: 1em;
+	}
+	.text p {
+		font-size: medium;
+	}
+}
