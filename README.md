@@ -30,9 +30,9 @@ Our gym instructor is passionate about fitness and has years of experience helpi
 
 Don't just take our word for it! See what our clients have to say about their experiences with our gym instructor.
 
-- "Working with [Instructor's Name] has been a game-changer for my fitness journey. Their personalized workouts and nutrition advice have helped me reach my goals faster than I ever thought possible." - Jane D.
-- "I used to dread going to the gym, but [Instructor's Name] has made it enjoyable and effective. Their energy and expertise are infectious!" - John S.
-- "If you're serious about getting fit, look no further. [Instructor's Name] is the best in the business." - Sarah M.
+- "Working with Henry has been a game-changer for my fitness journey. Their personalized workouts and nutrition advice have helped me reach my goals faster than I ever thought possible." - Jane D.
+- "I used to dread going to the gym, but Henry has made it enjoyable and effective. Their energy and expertise are infectious!" - John S.
+- "If you're serious about getting fit, look no further. Henry is the best in the business." - Sarah M.
 
 ## Contact
 
