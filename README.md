@@ -38,9 +38,9 @@ Don't just take our word for it! See what our clients have to say about their ex
 
 If you're ready to start your fitness journey or have any questions, feel free to get in touch with us.
 
-- **Email**: [email@example.com](mailto:email@example.com)
-- **Phone**: (123) 456-7890
-- **Address**: 123 Fitness Avenue, City, State ZIP
+- **Email**: [Nicholas Otieno](nicholasodhiambo2015@gmail.com)
+- **Phone**: (+254)790 400035
+- **Address**: Olympic Estate, Nairobi, 00100
 
 ## Getting Started
 
