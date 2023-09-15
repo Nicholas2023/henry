@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&    display=swap');
+
+*>* {
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: linear-gradient(to bottom, #0c192c, #000);
+
+}
+
+.board {
+	max-width: 987px;
+	width: 100%;
+	background-color: #11233d;
+	text-align: center;
+	border-radius: 9px;
+	padding: 4em 0;
+}
+
+.text-light {
+	color: #f1f2ed;
+}
+
+.swiper {
+	width: 600px;
+	height: 100%;
+}
+
+.swiper .swiper-slide .flex {
+	margin: 3em 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+.swiper .swiper-slide .comments {
+	background-color: #f1f2ed;
+	padding: 1.5em 2em;
+	width: 70%;
+	border-radius: 5px;
+	letter-spacing: .2em;
+	font-size: .9em;
+	position: relative;
+	transition: transform 0.3s ease;
+	cursor: pointer;
+}
+
+.swiper .swiper-slide .comments::after {
+	content: "";
+	position: absolute;
+	bottom: -19px;
+	left: 45%;
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 20px solid #f1f2ed;
+	z-index: -99;
+}
+
+.swiper .swiper-slide .comments:hover {
+	transform: scale(1.15) translateY(-12px);
+}
+
+.swiper .profile {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 1.5em;
+}
+
+
+.swiper .profile .circular-frame {
+	width: 80px;
+	height: 80px;
+	margin: 0 auto;
+	overflow: hidden;
+	border-radius: 50%;
+	border: inset 8px deepskyblue;
+	position: relative;
+}
+
+.swiper .profile img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.swiper .profile a {
+	text-decoration: none;
+	color: #f1f2ed;
+	font-size: 1em;
+	margin: 0;
+	font-weight: 200;
+}
+
+.swiper .profile span h5 {
+	font-size: .9em;
+	letter-spacing: .2em;
+	margin: 5px 0;
+	color: #666666;
+}
+
+.swiper .swiper-button-prev,
+.swiper	.swiper-button-next
+{
+	color: #00688B;
+}
+
+@media(max-width: 798px) {
+	.board {
+		width: 100%;
+	}
+}
