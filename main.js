@@ -5,7 +5,7 @@ const swiper = new Swiper('.swiper', {
 	loop: true,
 
 	autoplay: {
-        	delay: 6000,
+        	delay: 5000,
         	disableOnInteraction: false,
     	},
 	speed: 2000,
